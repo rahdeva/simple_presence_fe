@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156447750452",
+    "project_id": "simple-presence-app",
+    "storage_bucket": "simple-presence-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156447750452:android:6192cb9432947d97fb4d61",
+        "android_client_info": {
+          "package_name": "com.adev.simple_presence_fe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslAg-E7AYKh5J4YeEwdQbMyyZng_KmeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
